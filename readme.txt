@@ -11,11 +11,11 @@ Dynamic control over who can register on your site and when.
 
 == Description ==
 
-**Did you find this plugin helpful? Please consider [writing a review](https://wordpress.org/support/view/plugin-reviews/prevent-concurrent-logins).**
+**Did you find this plugin helpful? Please consider [leaving a 5-star review](https://wordpress.org/support/view/plugin-reviews/user-registration-control).**
 
 Something here.
 
-**Development of this plugin is done [on GitHub](https://github.com/fjarrett/prevent-concurrent-logins). Pull requests welcome. Please see [issues reported](https://github.com/fjarrett/prevent-concurrent-logins/issues) there before going to the plugin forum.**
+**Development of this plugin is done [on GitHub](https://github.com/fjarrett/user-registration-control). Pull requests welcome. Please see [issues reported](https://github.com/fjarrett/user-registration-control/issues) there before going to the plugin forum.**
 
 == Changelog ==
 
