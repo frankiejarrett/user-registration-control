@@ -1,6 +1,6 @@
 === User Registration Control ===
 Contributors:      fjarrett
-Tags:              admin, membership, registration, security, users
+Tags:              admin, membership, multisite, registration, security, users
 Requires at least: 3.7
 Tested up to:      4.2
 Stable tag:        0.1.0
