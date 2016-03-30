@@ -5,8 +5,11 @@
  * Version: 0.1.0
  * Author: Frankie Jarrett
  * Author URI: http://frankiejarrett.com
- * License: GPLv3
  * Text Domain: user-registration-control
+ * 
+ * Copyright: © 2015 Frankie Jarrett.
+ * License: GNU General Public License v3.0
+ * License URI: https://www.gnu.org/licenses/gpl-3.0.html
  */
 
 class User_Registration_Control {
