@@ -74,6 +74,7 @@ class User_Registration_Control {
 			$class = __CLASS__;
 			self::$instance = new $class;
 		}
+
 		return self::$instance;
 	}
 
