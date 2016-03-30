@@ -8,8 +8,8 @@
  * Text Domain: user-registration-control
  * 
  * Copyright: © 2015 Frankie Jarrett.
- * License: GNU General Public License v3.0
- * License URI: https://www.gnu.org/licenses/gpl-3.0.html
+ * License: GNU General Public License v2.0
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  */
 
 class User_Registration_Control {
